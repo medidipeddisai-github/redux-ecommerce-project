@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/redux-ecommerce-project/static/css/main.b93864b8.css",
+    "main.js": "/redux-ecommerce-project/static/js/main.e08ba866.js",
+    "static/js/592.4741149c.chunk.js": "/redux-ecommerce-project/static/js/592.4741149c.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/redux-ecommerce-project/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/redux-ecommerce-project/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/redux-ecommerce-project/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bgimg.jpg": "/redux-ecommerce-project/static/media/bgimg.c14042d802684c3da57f.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/redux-ecommerce-project/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/redux-ecommerce-project/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/redux-ecommerce-project/index.html",
+    "main.b93864b8.css.map": "/redux-ecommerce-project/static/css/main.b93864b8.css.map",
+    "main.e08ba866.js.map": "/redux-ecommerce-project/static/js/main.e08ba866.js.map",
+    "592.4741149c.chunk.js.map": "/redux-ecommerce-project/static/js/592.4741149c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b93864b8.css",
+    "static/js/main.e08ba866.js"
+  ]
+}
